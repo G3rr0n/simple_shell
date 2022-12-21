@@ -5,8 +5,11 @@
 *
 *Return: On success 1.
 */
-int main() {
-	printf("This is a team collab")
+int main(void)
+{
 
-	return 0;
+	printf("This is a team collab");
+	printf("Characters: %c %c \n", 'z', 80);
+
+	return (0);
 }
